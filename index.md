@@ -4,16 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I received a B.E. degree from Xidian University in 2012 and received a Ph.D. degree from the Institute of Computing Technology, University of Chinese Academy of Sciences in 2018. After that,  I worked as an assistant professor at the National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences. Now, I am a professor at the University of Science and Technology of China.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
+- **Computer Vision:** image recognition, 
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[2025-03]** two papers on Cross-domain Object Detection and Continual learning accepted by CVPR25.
